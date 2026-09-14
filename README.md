@@ -24,3 +24,5 @@ Key Technical Architecture & Implementation
         Configures showBalance={false} on the <ConnectButton/> to streamline the user interface header.
 
         Implements automated state-refresh logic (refetch()) via useEffect upon successful transaction confirmation, ensuring the UI immediately reflects on-chain updates.
+        <img width="1888" height="1003" alt="image" src="https://github.com/user-attachments/assets/c14ea0e1-212b-4c91-9619-3da08e82ece9" />
+
